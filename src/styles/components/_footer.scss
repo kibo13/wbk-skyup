@@ -1,0 +1,41 @@
+footer {
+
+	.bg-top {
+		background-color: rgba(63, 81, 181, 1);
+	}
+
+	.footer-link i {
+		transition: .5s;
+	}
+
+	.footer-link:hover {
+
+		& i {
+			color: #bdbdbd !important;
+			transform: scale(1.5);
+		}
+	}
+
+	.fb-link {
+		font-size: 12px;
+	}
+
+	.fb-link:hover {
+		font-weight: 600;
+	}
+
+	hr {
+		width: 80px;
+		background: #eceff1;
+	}
+
+	p {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 768px) {
+	.box-hide {
+		display: none;
+	}
+}
