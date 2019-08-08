@@ -4,7 +4,7 @@
     src="https://image.flaticon.com/icons/svg/660/660475.svg" 
     height="32"
     alt="LOGO"/>
-    SkyUp
+    Вёрстка сайта "SkyUp"
 </h1> 
 
 <strong><em>`Задача:`</em></strong> разработать адаптивную версию сайта на основе современных технологий вёрстки<br>
